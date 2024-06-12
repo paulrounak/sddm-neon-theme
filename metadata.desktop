@@ -1,0 +1,12 @@
+[SddmGreeterTheme]
+Name=sddm-neon-theme
+Description=sddm-neon-theme
+Author=duckyfied
+License=MIT
+Type=sddm-theme
+Version=1.0
+Screenshot=Previews/preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=sddm-flower-theme
