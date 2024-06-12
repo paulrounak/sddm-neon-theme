@@ -2,7 +2,8 @@
 A neon theme for sddm.
 
 # Preview
-![12-06-2024-12-38-41](https://github.com/duckyfied/sddm-neon-theme/assets/172433021/4a5266eb-0252-4a9f-a7d5-fef06b93222e)
+![preview](https://github.com/duckyfied/sddm-neon-theme/assets/172433021/87480588-9b9c-4a84-a394-776f15459289)
+
 
 # Install Dependencies
 ```sh
