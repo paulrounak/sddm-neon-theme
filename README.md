@@ -14,7 +14,7 @@ yay -S qt5-graphicaleffects qt5-quickcontrols2 qt5-svg sddm
 1. Clone this repository, copy fonts to `/usr/share/fonts/`:
 
    ```sh
-   sudo git clone https://github.com/duckyfied/sddm-neon-theme.git /usr/share/sddm/themes/sddm-neon-theme
+   sudo git clone https://github.com/paulrounak/sddm-neon-theme.git /usr/share/sddm/themes/sddm-neon-theme
    sudo cp /usr/share/sddm/themes/sddm-neon-theme/Fonts/* /usr/share/fonts/
    ```
 
